@@ -4,6 +4,7 @@
     box-sizing: border-box;
     }
       .container{
+          background-color: blue;        
             width: 1365px;
             height: 2285px;
             margin: 0 auto;
